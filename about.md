@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 <span class="image fit"><img src="{{ "/images/Myself.JPG" | absolute_url }}" alt="" /></span>
+
 我是在清華大學讀書的桃園人，住在鶯歌跟桃園交界，這個地緣關係有點複雜哈哈~<br>
 平時努力在新竹這片荒漠找好吃美食，<br>
 生活目標是不斷提高生活品質！<br>
