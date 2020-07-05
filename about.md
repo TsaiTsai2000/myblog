@@ -3,11 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Sleek is a modern Jekyll theme focused on speed performance & SEO best practices. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) or simply read the guide on how to [get started](/getting-started)
-
-You can find the source code for the Jekyll new theme at:
-[sleek](https://github.com/janczizikow/sleek)
-
-You can find the source code for Jekyll at
-[jekyll](https://github.com/jekyll/jekyll)
+<span class="image fit"><img src="{{ "/images/Myself.JPG" | absolute_url }}" alt="" /></span>
+我是在清華大學讀書的桃園人，住在鶯歌跟桃園交界，這個地緣關係有點複雜哈哈~<br>
+平時努力在新竹這片荒漠找好吃美食，<br>
+生活目標是不斷提高生活品質！<br>
+喜歡煮主簡單的菜、泡咖啡，無聊沒事就去咖啡廳或到處走走~<br>
+極度GOOGLE評論中毒，也有在當在地嚮導撰寫評論回饋！<br>
+(<a href="https://goo.gl/maps/PX6wwarfZBVYQvqn6" target="_blank" title="按這裡連結到我的評論😊">按這裡連結到我的評論😊</a>)
