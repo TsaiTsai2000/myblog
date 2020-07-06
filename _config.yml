@@ -22,9 +22,9 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  分享生活、旅遊記事，把握現在的日子留做以後懷念。
+  分享生活、旅遊記事，把握現在的日子留做以後懷念。。
 
-hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/cover.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: wl03078162@gmail.com # email for form submission
 
