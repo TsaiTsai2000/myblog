@@ -2,7 +2,7 @@
 title: TSAI's Blog # your site title
 author: TSAI # You :P
 description: > # Meta description of Homepage
-  Travel, Study, Everything In My Life.
+  Travel. Study. Everything In My Life.
 baseurl: "/myblog" # the subpath of your site, e.g. /blog
 url: "https://TsaiTsai2000.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
