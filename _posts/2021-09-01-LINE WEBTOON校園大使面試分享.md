@@ -21,6 +21,10 @@ categories: [分享]
 
 [第二階段面試（包含問題和回答tips）](#第二階段面試)
 
+<p>
+<span class="image fit"><img src="{{ "/images/校園大使/1.jpg" | absolute_url }}" alt="" loading="lazy"></span>
+</p>
+
 <a name="給那些還在猶豫的人"/>
 
 # 給那些還在猶豫的人
@@ -52,6 +56,11 @@ categories: [分享]
 ***
 分成兩個階段，**第一階段網路書審 > 第二階段團體面試**<br>
 官方沒有透漏報名的人數，但看網路上有人說去年第一階段大約700人，最後錄取20人～<br>
+LINE WEBTOON 在 App 裡面有「[星球領航員・第X屆校園大使](https://www.webtoons.com/zh-hant/drama/webtooncampusevent/list?title_no=1807)」，<br>
+裡頭會公布所有有關校園大使的最新資訊～未來一年快來關注我們😊<br>
+<p>
+<span class="image fit"><img src="{{ "/images/校園大使/2.jpg" | absolute_url }}" alt="" loading="lazy"></span>
+</p>
 
 <a name="校園大使招募資格"/>
 
@@ -60,9 +69,12 @@ categories: [分享]
 ***
 
 ✨超重要資訊，**填寫書審時把自己經歷扣上招募資格和加分項目**，可以讓進下個階段機會大幅提高！<br>
-LINE WEBTOON 在 App 裡面有「[星球領航員・第X屆校園大使](https://www.webtoons.com/zh-hant/drama/webtooncampusevent/list?title_no=1807)」，<br>
-裡頭會公布所有有關校園大使的最新資訊～未來一年快來關注我們😊<br>
+
 附上今年招募的網址參考 > [點我看招募資訊](https://www.webtoons.com/zh-hant/drama/webtooncampusevent/%E7%AC%AC12%E8%A9%B1-%E7%AC%AC%E4%BA%8C%E5%B1%86%E6%A0%A1%E5%9C%92%E5%A4%A7%E4%BD%BF%E6%8B%9B%E5%8B%9F%E5%B1%95%E9%96%8B%E3%80%80%E5%8D%B3%E5%88%BB%E5%8A%A0%E5%85%A5%E6%98%9F%E7%90%83%E9%A0%98%E8%88%AA%E5%93%A1%E8%A8%88%E7%95%AB/viewer?episode_no=12&title_no=1807)<br>
+
+<p>
+<span class="image fit"><img src="{{ "/images/校園大使/3.jpg" | absolute_url }}" alt="" loading="lazy"></span>
+</p>
 
 <a name="第一階段書審"/>
 
@@ -96,6 +108,9 @@ LINE WEBTOON 在 App 裡面有「[星球領航員・第X屆校園大使](https:/
 <center>－－－</center>
 
 7/15收到第二階段面試通知
+<p>
+<span class="image fit"><img src="{{ "/images/校園大使/4.jpg" | absolute_url }}" alt="" loading="lazy"></span>
+</p>
 
 <center>－－－</center>
 
@@ -125,7 +140,11 @@ LINE WEBTOON 在 App 裡面有「[星球領航員・第X屆校園大使](https:/
 
 <center>－－－</center>
 
-面試結果：錄取!!
+面試結果：錄取!! <br>
+
+<p>
+<span class="image fit"><img src="{{ "/images/校園大使/5.jpg" | absolute_url }}" alt="" loading="lazy"></span>
+</p>
 
 大家都超積極...<br>
 跟我原先想的完全不一樣，面試結束不知道到底有沒有譜，<br>
