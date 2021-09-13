@@ -176,6 +176,9 @@ categories: [分享]
 
 有任何問題，歡迎隨時私訊我的 IG：[tsai_____tsai](https://www.instagram.com/tsai_____tsai/)<br>
 
-更多相關文章分享 → 實習申請（蝦皮、CloudMile、逗寶、Gogolook）、打工換宿申請、清大轉系申請
+更多相關文章分享 ↓ 
+- [實習申請](https://tsaitsai2000.github.io/myblog/2021%E5%B9%B4%E5%AF%A6%E7%BF%92%E9%9D%A2%E8%A9%A6%E5%88%86%E4%BA%AB/)（蝦皮、CloudMile、逗寶、Gogolook）
+- [綠島打工換宿申請](https://tsaitsai2000.github.io/myblog/%E7%94%B3%E8%AB%8B%E6%89%93%E5%B7%A5%E6%8F%9B%E5%AE%BF/)
+- [清大轉系申請](https://tsaitsai2000.github.io/myblog/%E8%BD%89%E7%B3%BB/)
 
 <a href="https://www.mfwzjsq.com/" target="_blank"><img src="https://www.mfwzjsq.com/hit.php?id=zmannp&nd=6&style=3" border="0" alt="網頁計數器"></a>
