@@ -11,7 +11,7 @@ social:
   name: TSAI
   links:
     - https://www.facebook.com/ben.balter
-    - https://www.facebook.com/wl03078162
+    - https://www.facebook.com/tsc0822
     - https://github.com/TsaiTsai2000
 
 # THEME SETTINGS
@@ -28,7 +28,7 @@ hero_img: posts/cover.jpg # Main background image: use the path from /assets/img
 email: wl03078162@gmail.com # email for form submission
 
 github_username: TsaiTsai2000  # replace with your_github_username or comment to remove link from footer
-instagram_username: sincih0822 # replace with your_instagram_username or comment to remove link from footer
+instagram_username: tsai_____tsai # replace with your_instagram_username or comment to remove link from footer
 
 disqus:
   shortname: TSAI # to enable comments replace with your_disqus_shortname
