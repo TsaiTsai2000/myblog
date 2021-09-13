@@ -79,7 +79,8 @@ categories: [分享]
 ***
 
 
-**<span style="background-color:#F2EDA2">✨ 填寫書審時把經歷扣上招募資格和加分項目</span>**，可以讓進下個階段機會大幅提高！<br>
+✨ **<span style="background-color:#F2EDA2">填寫書審時把經歷扣上招募資格和加分項目</span>**，<br>
+可以讓進下個階段機會大幅提高！<br>
 
 附上今年招募的網址參考 > [點我看招募資訊](https://www.webtoons.com/zh-hant/drama/webtooncampusevent/%E7%AC%AC12%E8%A9%B1-%E7%AC%AC%E4%BA%8C%E5%B1%86%E6%A0%A1%E5%9C%92%E5%A4%A7%E4%BD%BF%E6%8B%9B%E5%8B%9F%E5%B1%95%E9%96%8B%E3%80%80%E5%8D%B3%E5%88%BB%E5%8A%A0%E5%85%A5%E6%98%9F%E7%90%83%E9%A0%98%E8%88%AA%E5%93%A1%E8%A8%88%E7%95%AB/viewer?episode_no=12&title_no=1807)<br>
 
@@ -95,7 +96,7 @@ categories: [分享]
 ***
 **時間**：6/1~6/30（一個月準備時間）
 
-**<span style="background-color:#F2EDA2">✨ 以我們能帶給LINE WEBTOON什麼去思考、撰寫！</span>**
+✨ **<span style="background-color:#F2EDA2">以我們能帶給LINE WEBTOON什麼去思考、撰寫！</span>**
 
 #### 自我介紹(300字以內)
 - TIPS：列點，你的個性、經歷須符合招募資格。
@@ -173,6 +174,4 @@ categories: [分享]
 講跟職務有關的內容，相信錄取機率一定能大幅提升！<br>
 祝福明天申請的大家順利~🥰
 
-<a href="http://guestscounter.com"><img src="http://guestscounter.com/count.php?c_style=17&id=1631512861" border=0 alt="free hit counter"></a><br><a href="http://guestscounter.com" style="font-size:9px;">free hit counter</a><br>
-
-
+<a href="https://www.mfwzjsq.com/" target="_blank"><img src="https://www.mfwzjsq.com/hit.php?id=zmannp&nd=6&style=3" border="0" alt="網頁計數器"></a>
