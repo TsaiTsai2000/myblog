@@ -35,8 +35,8 @@ categories: [分享]
 當然有社群影響力超加分，<br>
 但像我 IG 粉絲人數只有 600+，<br>
 最後還是從近千人中成功錄取 LINE WEBTOON 第二屆校園大使！<br>
-看了錄取的大使們，我認為 LINE WEBTOON 更在意的應該是用心、熱情程度以及你有什麼跟別人不一樣的地方～<br>
-總而言之，提供自己的附加價值，展現優勢相信大家都可以的😆<br>
+看了錄取的大使們，我認為<font color="#039DFF">LINE WEBTOON 更在意的應該是用心、熱情程度以及你有什麼跟別人不一樣的地方～</font> <br>
+總而言之，展示自己的附加價值及優勢，相信大家都可以的😆<br>
 
 <a name="為什麼想當LINEWEBTOON校園大使?"/>
 
@@ -62,9 +62,10 @@ categories: [分享]
 **第一階段網路書審 > 第二階段團體面試**<br>
 官方沒有透漏報名的人數，但看網路上有人說去年第一階段大約700人，最後錄取20人～<br>
 
-最新消息都在 → 「[星球領航員・第X屆校園大使](https://www.webtoons.com/zh-hant/drama/webtooncampusevent/list?title_no=1807)」，<br>
+最新消息都在 ↓ <br>
+[星球領航員・第X屆校園大使](https://www.webtoons.com/zh-hant/drama/webtooncampusevent/list?title_no=1807)<br>
 裡頭會公布所有有關校園大使的資訊～<br>
-未來一年快來關注我們😊<br>
+未來一年快來關注我們 😊<br>
 
 <p>
 <span class="image fit"><img src="{{ "/images/校園大使/2.jpg" | absolute_url }}" alt="" loading="lazy"></span>
@@ -74,10 +75,12 @@ categories: [分享]
 
 # 校園大使招募資格
 
+
 ***
 
+
 ✨超重要資訊<br>
-**填寫書審時把自己經歷扣上招募資格和加分項目**，可以讓進下個階段機會大幅提高！<br>
+**填寫書審時把經歷扣上招募資格和加分項目**，可以讓進下個階段機會大幅提高！<br>
 
 附上今年招募的網址參考 > [點我看招募資訊](https://www.webtoons.com/zh-hant/drama/webtooncampusevent/%E7%AC%AC12%E8%A9%B1-%E7%AC%AC%E4%BA%8C%E5%B1%86%E6%A0%A1%E5%9C%92%E5%A4%A7%E4%BD%BF%E6%8B%9B%E5%8B%9F%E5%B1%95%E9%96%8B%E3%80%80%E5%8D%B3%E5%88%BB%E5%8A%A0%E5%85%A5%E6%98%9F%E7%90%83%E9%A0%98%E8%88%AA%E5%93%A1%E8%A8%88%E7%95%AB/viewer?episode_no=12&title_no=1807)<br>
 
