@@ -170,6 +170,12 @@ categories: [分享]
 只要展現出自己很用心、很重視這個面試機會，<br>
 展現自己、思考什麼樣的人是校園大使想要的，<br>
 講跟職務有關的內容，相信錄取機率一定能大幅提升！<br>
-祝福明天申請的大家順利~🥰
+祝福明天申請的大家順利~🥰<br>
+
+<center>－－－</center>
+
+有任何問題，歡迎隨時私訊我的 IG：[tsai_____tsai](https://www.instagram.com/tsai_____tsai/)<br>
+
+更多相關文章分享 → 實習申請（蝦皮、CloudMile、逗寶、Gogolook）、打工換宿申請、清大轉系申請
 
 <a href="https://www.mfwzjsq.com/" target="_blank"><img src="https://www.mfwzjsq.com/hit.php?id=zmannp&nd=6&style=3" border="0" alt="網頁計數器"></a>
