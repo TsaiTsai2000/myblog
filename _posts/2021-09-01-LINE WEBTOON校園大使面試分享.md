@@ -174,7 +174,7 @@ categories: [分享]
 
 <center>－－－</center>
 
-有任何問題，歡迎隨時私訊我的 IG：[tsai_____tsai](https://www.instagram.com/tsai_____tsai/)<br>
+有任何問題，歡迎隨時私訊我的<a href="https://www.instagram.com/tsai_____tsai/" target="_blank" title="tsai_____tsai">tsai_____tsai</a> <br>
 
 更多相關文章分享 ↓ 
 - [實習申請](https://tsaitsai2000.github.io/myblog/2021%E5%B9%B4%E5%AF%A6%E7%BF%92%E9%9D%A2%E8%A9%A6%E5%88%86%E4%BA%AB/)（蝦皮、CloudMile、逗寶、Gogolook）
