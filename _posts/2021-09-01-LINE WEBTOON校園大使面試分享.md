@@ -173,7 +173,6 @@ categories: [分享]
 講跟職務有關的內容，相信錄取機率一定能大幅提升！<br>
 祝福明天申請的大家順利~🥰
 
-<a href="https://www.mfwzjsq.com/" target="_blank"><img src="https://www.mfwzjsq.com/hit.php?id=zvvveanna&nd=6&style=3" border="0" alt="網頁計數器"></a>
-
+<a href="http://guestscounter.com"><img src="http://guestscounter.com/count.php?c_style=17&id=1631512861" border=0 alt="free hit counter"></a><br><a href="http://guestscounter.com" style="font-size:9px;">free hit counter</a><br>
 
 
