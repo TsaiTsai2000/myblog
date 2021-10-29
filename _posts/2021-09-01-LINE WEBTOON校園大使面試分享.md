@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LINE WEBTOON 第二屆校園大使｜書審、面試準備攻略
-summary: 明明資格很符合，書審卻被刷掉？我是第二屆LINE WEBTOON校園大使，想將從報名到最後錄取的一些心得跟訣竅分享給各位!
+summary: 明明資格很符合，書審卻被刷掉？我是第二屆 LINE WEBTOON 校園大使，想將從報名到最後錄取的一些心得跟訣竅分享給各位！
 featured-img: LINE WEBTOON
 categories: [分享]
 ---
